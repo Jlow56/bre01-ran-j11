@@ -1,2 +1,5 @@
 # bre01-ran-j11
-Day 11 of the 3wa Bre01
+
+## Introduction à Git 
+
+## Introduction au shell
